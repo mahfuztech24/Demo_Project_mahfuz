@@ -1,0 +1,8 @@
+			Database and ORM integration (SQL Alchemy)
+
+1) database.py- Python application-কে database-এর সঙ্গে connect করা।
+2) model.py- Database table-এর structure তৈরি করা।
+3) Schema.py- API-তে আসা এবং API থেকে ফেরত যাওয়া data validate ও format করা।
+4) Repository.py- Database-related query ও CRUD operation এক জায়গায় রাখা।
+5) Service.py- Business logic এবং application-এর নিয়ম পরিচালনা করা।
+6) Endpoint(User_controller.py/main.py)- Client-এর request গ্রহণ করে সঠিক response দেওয়া। 

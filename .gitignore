@@ -1,0 +1,15 @@
+._*.py
+_pycache_
+*.pyc
+/.test_venv/*
+/dist/
+/build/
+*.egg-info/
+
+
+__pycache__/
+*.py[cod]
+.test_venv/
+/dist/
+/build/
+*.egg-info/
